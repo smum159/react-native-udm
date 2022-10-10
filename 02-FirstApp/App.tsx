@@ -1,9 +1,11 @@
 import React from 'react';
-import HelloFriendScreen from './src/screens/HelloFriendScreen';
+import CounterScreen from './src/screens/CounterScreen';
+// import HelloFriendScreen from './src/screens/HelloFriendScreen';
 
 export const App = () => {
   return (
-    <HelloFriendScreen/>
+    // <HelloFriendScreen/>
+    <CounterScreen/>
   );
 };
 

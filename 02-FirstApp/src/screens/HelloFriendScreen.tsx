@@ -7,7 +7,7 @@ export const HelloFriendScreen = () => {
   return (
     <View style={{
         flex: 1,
-        backgroundColor: 'teal',
+        backgroundColor: '#1d6198',
         justifyContent: 'center',
       }}>
       <Text style={{
